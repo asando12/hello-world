@@ -15,8 +15,7 @@ I've have been able to get some reading done about what I can perform.
   
   <ol>
     <li> This is a list att. </li>
-    
-    <li> 2nd </li>
+    <li> I Got one </li>
     
   </ol>
   

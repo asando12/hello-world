@@ -25,7 +25,25 @@ I've have been able to get some reading done about what I can perform.
 <input type="text" placeholder="cat photo URL">
 
 <!-- This is the button code for adding on page -->   
-   <button type="submit">Submit</button>
+  <button type="submit">Submit</button>
 </form>
   
 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

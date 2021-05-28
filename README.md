@@ -19,5 +19,13 @@ I've have been able to get some reading done about what I can perform.
     
   </ol>
   
+ <!-- form action  Input type  Placeholder --> 
+ <form action="https://www.freecatphotoapp.com/submit-cat-photo"> 
+   
+<input type="text" placeholder="cat photo URL">
+
+<!-- This is the button code for adding on page -->   
+   <button type="submit">Submit</button>
+</form>
   
 

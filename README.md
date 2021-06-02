@@ -26,7 +26,7 @@ form action  Input type  Placeholder
 
 This is the button code for adding on page 
   <button type="submit">Submit</button>
-</form>
+
   
 
 Radio Buttons:
@@ -69,7 +69,7 @@ Here's an example of a checkbox:
   
   
   
-  
+  </form>
   
   
   

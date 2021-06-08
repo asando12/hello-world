@@ -90,7 +90,19 @@ Here's an example of a page's layout:
 </html>
 
   
+Working on style CSS
   
+  <style>
+  .red-text {
+    color: red;
+    font-size: 3rem;
+    font-family: "open sans";
+    font-weight: normal;
+    font-style: italic;
+  }
+</style>
+
+
   
   
   

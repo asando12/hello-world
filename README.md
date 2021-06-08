@@ -102,7 +102,20 @@ Working on style CSS
   }
 </style>
 
+ .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
 
+  .smaller-image {
+    width: 100px;
+  }
+
+  .silver-background {
+    background-color: silver;
+    background: linear-gradient(green, white)
   
   
   

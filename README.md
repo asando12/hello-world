@@ -117,7 +117,9 @@ Working on style CSS
     background-color: silver;
     background: linear-gradient(green, white)
   
-  
+  #cat-photo-form {
+  background-color: green;
+  }
   
   
   
